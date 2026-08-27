@@ -4,6 +4,6 @@
   "version": "1.1.0",
   "file": "OTA_Application_A.bin",
   "size": 22724,
-  "crc32": "57793500",
+  "crc32": "7759DC12",
   "url": "https://raw.githubusercontent.com/yoilni/STM32F407-ESP32S3-OTA/main/firmware/v1.1.0/OTA_Application_A.bin"
 }
