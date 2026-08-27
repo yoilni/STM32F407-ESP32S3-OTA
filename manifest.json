@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "target": "STM32F407ZGT6",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "file": "OTA_Application_A.bin",
   "size": 22616,
-  "crc32": "7A45223D",
-  "url": "https://raw.githubusercontent.com/yoilni/STM32F407-ESP32S3-OTA/main/firmware/v1.1.0/OTA_Application_A.bin"
+  "crc32": "0B84288C",
+  "url": "https://raw.githubusercontent.com/yoilni/STM32F407-ESP32S3-OTA/main/firmware/v1.1.1/OTA_Application_A.bin"
 }
